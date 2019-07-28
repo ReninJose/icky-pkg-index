@@ -3,3 +3,6 @@ icky:
 
 icky-pkg-index:
   repo: https://github.com/dbenoit17/icky-pkg-index.git
+
+dflat-mod:
+  repo: https://github.com/dbenoit17/dflat-mod.git
